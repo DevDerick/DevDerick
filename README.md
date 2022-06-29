@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Derick
 
-- 🔭 Hoje trabalho como Front End Web Developer na Airbox
-- 🌱 Estudando JavaScript e Angular
-- 💬 dev_derick@hotmail.com
-
 <div align="center">
   <a href="https://github.com/devderick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devderick&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -21,8 +17,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/devderick/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/derick_rk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/devderick/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:dev_derick@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
